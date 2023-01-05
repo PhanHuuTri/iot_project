@@ -1,0 +1,4 @@
+enum BlocState {
+  fetching,
+  completed,
+}
